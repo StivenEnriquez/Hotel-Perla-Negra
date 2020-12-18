@@ -1,0 +1,14 @@
+.main-header {
+    position: absolute;
+    background: url(../img/j.jpg);
+    background-size: cover;
+    min-height: 601px;
+    min-width: 80vw;
+    
+  }
+  
+  .background-overlay {
+    background: rgba(48, 51, 107,.5);
+    width: 80vmax;
+    height: 601px;
+  }

@@ -1,0 +1,8 @@
+.main-header {
+    position: absolute;
+    background: url(../img/c.jpg);
+    background-size: cover;
+    min-height: 601px;
+    min-width: 80vw;
+    
+  }
